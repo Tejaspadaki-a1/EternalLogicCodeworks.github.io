@@ -337,6 +337,9 @@ footer {
     padding: 50px 15px;
     text-align: center;
 }
+.project{
+    text-align: center;
+}
 
 /* Add this CSS for the projects section */
 .projects-container {
